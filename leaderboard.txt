@@ -1,0 +1,12 @@
+Ringo (VIP) : 258
+Ringo : 150
+Alice (VIP) : 116
+Bob (VIP) : 108
+Rory (VIP) : 100
+a;slkdga : 58
+Ringo : 58
+Pa : 54
+Bob : 50
+Bob (LIMITED) : 3
+Santie (LIMITED) : 2
+JOhn (LIMITED) : 2
