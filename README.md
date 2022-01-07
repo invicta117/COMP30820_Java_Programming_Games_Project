@@ -1,0 +1,3 @@
+# COMP30820 Main Project
+
+The above program is a simple games system with a menu and leaderboard where multiple players can play games and have their session scores added to the leaderboard. Players have different games to choose from X's and O's or Connect Four. Players who appear on the leaderboard are sorted by score. There are several types of players for example VIP player, who have different attributes associated with their account.
